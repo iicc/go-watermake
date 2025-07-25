@@ -1,0 +1,23 @@
+# 编译生成的文件
+watermark
+
+# Go模块缓存
+go.sum
+
+# 临时文件
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+
+# 编辑器生成的文件
+*.swp
+*.swo
+*~
+
+# macOS生成的文件
+.DS_Store
+
+# 水印输出目录
+watermarked/
